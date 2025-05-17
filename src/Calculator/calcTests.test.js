@@ -13,5 +13,5 @@ test('multipply two numbers', () => {
 });
 
 test('divide two numbers', () => {
-  expect(div(6, 2)).toBe(3);
+  expect(div(6, 4)).toBe(1.5);
 });
